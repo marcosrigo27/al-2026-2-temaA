@@ -1,0 +1,468 @@
+Data e hora: 2026-11-23T19:44:44-03:00
+Arquivo: data/raw/3200102.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3200102&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 62ecaf91bb8ba8b153a802bf14c308d8106b37faaa53833c0944b9ae6c840da7
+
+Data e hora: 2026-11-23T19:44:45-03:00
+Arquivo: data/raw/3200136.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3200136&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 3966872923dac039edd5389bf943176dd1b8522a9dee49c1a9953b62b5fecd01
+
+Data e hora: 2026-11-23T19:44:47-03:00
+Arquivo: data/raw/3200169.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3200169&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 3371ca7579d38f108f21a340c797d28ae68ed0f1f8a6439fef75c1fbd6180ee9
+
+Data e hora: 2026-11-23T19:44:48-03:00
+Arquivo: data/raw/3200201.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3200201&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 73392b01eb55119d9c7c09662d7d6fc4dc57b654f153973e0a8cc4741310da2a
+
+Data e hora: 2026-11-23T19:44:50-03:00
+Arquivo: data/raw/3200300.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3200300&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 985481c7167ca17feb669f3beeba819dda6498380fddb86bb5418927bada920e
+
+Data e hora: 2026-11-23T19:44:51-03:00
+Arquivo: data/raw/3200359.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3200359&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: e57156fe3e8f6a8b810619f395b25ea0e38e19a12579d6999f120d922509f480
+
+Data e hora: 2026-11-23T19:44:52-03:00
+Arquivo: data/raw/3200409.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3200409&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 30182a2a93ce98c00f960591832d40d8b0b21ad097f82d7f1a4d97cea81cf747
+
+Data e hora: 2026-11-23T19:44:54-03:00
+Arquivo: data/raw/3200508.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3200508&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 0f868b97d80b9bef83e2a047d3ebd2635dc12ca020a1262531a86cec5afe6532
+
+Data e hora: 2026-11-23T19:44:55-03:00
+Arquivo: data/raw/3200607.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3200607&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: bf57c0b010cacbebbd739fd910a211e12bb3154f378ece1504a22ceebfa649aa
+
+Data e hora: 2026-11-23T19:44:57-03:00
+Arquivo: data/raw/3200706.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3200706&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: a9bf94288373a93847194b1e47d427986d85fd0f15b0260a69f8dac66c9089ae
+
+Data e hora: 2026-11-23T19:44:59-03:00
+Arquivo: data/raw/3200805.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3200805&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: b21fb1a79154739ee0d130710004518368360e1cbec5b67b90b968d023ea1b42
+
+Data e hora: 2026-11-23T19:45:00-03:00
+Arquivo: data/raw/3200904.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3200904&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: c8db59bd03396fd16270b26f5db148433a78b7b18ed9419495c67da46fe444fd
+
+Data e hora: 2026-11-23T19:45:02-03:00
+Arquivo: data/raw/3201001.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3201001&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: e539a043ac262e66ee3d6d3c4cdfaad1d5606a83fc75de5399eac219630cb375
+
+Data e hora: 2026-11-23T19:45:03-03:00
+Arquivo: data/raw/3201100.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3201100&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: a40cfc5035d287ce1ab79f07fc14b3a9201aa5c4f2650ad6a39aea7bc0ed46c5
+
+Data e hora: 2026-11-23T19:45:05-03:00
+Arquivo: data/raw/3201159.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3201159&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 8f03ef15f32c3b8a90a5cb8b8dcfa3851565bca570822ec9d5e50c3fbace5d99
+
+Data e hora: 2026-11-23T19:45:06-03:00
+Arquivo: data/raw/3201209.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3201209&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 4898279257d7ec54157c25f5543c6b7411aac3702445c8d01df7527883dc796a
+
+Data e hora: 2026-11-23T19:45:08-03:00
+Arquivo: data/raw/3201308.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3201308&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 9fe84fdf9fa6d6f52564b3d1c43904b5d972a01cc2cc76a6948130c3687be256
+
+Data e hora: 2026-11-23T19:45:10-03:00
+Arquivo: data/raw/3201407.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3201407&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 04e43cdffb93562b221d5068f96e5ed8dc92b021db2409408160ede5dc5296d3
+
+Data e hora: 2026-11-23T19:45:11-03:00
+Arquivo: data/raw/3201506.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3201506&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 8dcc7b3081eb8bdebba674a27a4632c701763d8e9ec79cda765c3f952adc0a43
+
+Data e hora: 2026-11-23T19:45:13-03:00
+Arquivo: data/raw/3201605.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3201605&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 91b5bb8d0c21965ae7e0f45643bbe7525038bb6bc7832d23df68d6327a5dbe57
+
+Data e hora: 2026-11-23T19:45:15-03:00
+Arquivo: data/raw/3201704.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3201704&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 60bb0b9dfae3c82f54d557bf845f2a7c894abc2932d9f1e6e66dc9827b9a2330
+
+Data e hora: 2026-11-23T19:45:16-03:00
+Arquivo: data/raw/3201803.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3201803&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 7036e3c817594117ea9023a8b0813adf8e9cc6775fe45a8efe86b279e31ee36b
+
+Data e hora: 2026-11-23T19:45:18-03:00
+Arquivo: data/raw/3201902.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3201902&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 53e3097be808c0338b8ad1a25ea1491ad76570ff6dd01d5d0e22936b2f70eb94
+
+Data e hora: 2026-11-23T19:45:19-03:00
+Arquivo: data/raw/3202009.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3202009&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: a20a8cb2e1f86f3d8dde1850c579d7f8dc77ea0645fdcbfc3285b7cda3eecb54
+
+Data e hora: 2026-11-23T19:45:21-03:00
+Arquivo: data/raw/3202108.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3202108&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 074c49232423799ed44bfd9095faa719550b2e184e134cecce882b2ea8cf6582
+
+Data e hora: 2026-11-23T19:45:22-03:00
+Arquivo: data/raw/3202207.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3202207&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: dcf765e8cdbf56c2ec4e30385ffa6eb91cc4885486fa707c9036351d69f742e2
+
+Data e hora: 2026-11-23T19:45:24-03:00
+Arquivo: data/raw/3202256.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3202256&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 5137f3345c6cb860a9f831ff4d9bd1f3ae84373b9d37f316bf7a72db1b89c7a9
+
+Data e hora: 2026-11-23T19:45:25-03:00
+Arquivo: data/raw/3202306.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3202306&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 795f03181813a463d47552219daaf9db189f9b8572a0f8b3fa2fdf709dc6aee7
+
+Data e hora: 2026-11-23T19:45:27-03:00
+Arquivo: data/raw/3202405.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3202405&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 4351a209607590ddcca1dfb2279dc506eecfb22b1eb00a1c74007bc492e2f298
+
+Data e hora: 2026-11-23T19:45:28-03:00
+Arquivo: data/raw/3202454.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3202454&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 9c2fb2b43c4746cb7d73a3df4bbc9c5008b50b2a9a9c6036369f6c93b7160db2
+
+Data e hora: 2026-11-23T19:45:30-03:00
+Arquivo: data/raw/3202504.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3202504&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: b99a144a6ec3321919174552cc275051cb0b074d2fd0af43e52e9f57a7d57e21
+
+Data e hora: 2026-11-23T19:45:31-03:00
+Arquivo: data/raw/3202553.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3202553&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 61e88a9f5f13fd4d8d151e132d8e37391624052e4e0d41937cf6d3236c0bf589
+
+Data e hora: 2026-11-23T19:45:33-03:00
+Arquivo: data/raw/3202603.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3202603&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 57d6a87d1f1a7be3380049975df7bdbf4ab90737d8a5fb0afd81211420bec6fe
+
+Data e hora: 2026-11-23T19:45:34-03:00
+Arquivo: data/raw/3202652.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3202652&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 9fbf58fc3d7fdc700c56f1a01ea2bd73253e87842adf20a062c60f9e0b2cb447
+
+Data e hora: 2026-11-23T19:45:35-03:00
+Arquivo: data/raw/3202702.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3202702&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 7e21a2fe537eb5185ce1531d551f5af0a30dc57424a1a998065a631e62c840c7
+
+Data e hora: 2026-11-23T19:45:37-03:00
+Arquivo: data/raw/3202801.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3202801&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 77a1d7176b20046eec3063ad9a593c32b8850a281013d332eafe28854fd2776b
+
+Data e hora: 2026-11-23T19:45:38-03:00
+Arquivo: data/raw/3202900.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3202900&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 3819bd6806cace66901744bd67e9159987333cbd3f2cd973febf8958028c5ec2
+
+Data e hora: 2026-11-23T19:45:40-03:00
+Arquivo: data/raw/3203007.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3203007&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: e3affb6c454833867ef45e5ecce3458e8dc769c5866ff5b93488a23c0cc6f01b
+
+Data e hora: 2026-11-23T19:45:42-03:00
+Arquivo: data/raw/3203056.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3203056&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 234662aae48ce30d5dbfafaab4e862709cd3f072073cf7fa1eca8c31f0df1e6c
+
+Data e hora: 2026-11-23T19:45:43-03:00
+Arquivo: data/raw/3203106.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3203106&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 927b2bde1364869d5bb59add69f304b90f0255c338e55c4c67faf2e376d86e5f
+
+Data e hora: 2026-11-23T19:45:45-03:00
+Arquivo: data/raw/3203130.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3203130&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 34a6a565ab45f0ad502eff484fd7d887c8ef5d1efbf13f60b826351f71347385
+
+Data e hora: 2026-11-23T19:45:46-03:00
+Arquivo: data/raw/3203163.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3203163&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 831b5c98c787e5492eaa87a3627b17b9a45f77d255e64b3b895dfb4cfcf4bec2
+
+Data e hora: 2026-11-23T19:45:48-03:00
+Arquivo: data/raw/3203205.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3203205&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 50f1a05cfeb6b1d20240ea5b139a69bd39f23a87e9edc8f407d9233e655bf67b
+
+Data e hora: 2026-11-23T19:45:49-03:00
+Arquivo: data/raw/3203304.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3203304&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: c7cde213342b9dd320331ac0e3eb53e596819fb6b1dbf97725f80f0115cba670
+
+Data e hora: 2026-11-23T19:45:51-03:00
+Arquivo: data/raw/3203320.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3203320&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 5a0f05a51e38f80b197ebd742cb95bfb493817e64800923d8599078df5530c22
+
+Data e hora: 2026-11-23T19:45:52-03:00
+Arquivo: data/raw/3203346.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3203346&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: c25378859aaaa1c7b194e520104825793a894015b270b5ea5a9e544076fede49
+
+Data e hora: 2026-11-23T19:45:54-03:00
+Arquivo: data/raw/3203353.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3203353&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 7f651ff0e556883ca5e5b0f8dc6d45ca74144d828b4ee09540d11c1055053947
+
+Data e hora: 2026-11-23T19:45:55-03:00
+Arquivo: data/raw/3203403.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3203403&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: e5e53da035de8a6654264e4d2e880f51576d198a1344062111fe10e03461e0d5
+
+Data e hora: 2026-11-23T19:45:57-03:00
+Arquivo: data/raw/3203502.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3203502&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 9c4434d7807e5a9ab6ed9e3486e1071be947e1748f5e38963254435de710277e
+
+Data e hora: 2026-11-23T19:45:58-03:00
+Arquivo: data/raw/3203601.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3203601&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 0dbc23d1e196d8abe8c90cead8fb2001f3a29908c74b7d89eda78a07e96c856c
+
+Data e hora: 2026-11-23T19:46:00-03:00
+Arquivo: data/raw/3203700.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3203700&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 1ff72e2110d68294512d8da24e77e224aed7e5cbfbcbef3f87bf33d135fae8b9
+
+Data e hora: 2026-11-23T19:46:01-03:00
+Arquivo: data/raw/3203809.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3203809&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: f1589e7dd4cebaa4963611897324e8425c4c9d0a9eb05f499be5f55b7dfecc2c
+
+Data e hora: 2026-11-23T19:46:03-03:00
+Arquivo: data/raw/3203908.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3203908&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 19350d3595286e54b4d85389d7086c3c9dc37d629107ffac44fe0aeef17ee74b
+
+Data e hora: 2026-11-23T19:46:04-03:00
+Arquivo: data/raw/3204005.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3204005&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 1183cb2eb4c7d5fa842ce35cb64f7600ecc06ea11bb7561cae8b11e8fcbe5974
+
+Data e hora: 2026-11-23T19:46:06-03:00
+Arquivo: data/raw/3204054.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3204054&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 1f90d752d382481d2ad8f32cf392c9be67b32a851321144bec38d341e6cdb8d4
+
+Data e hora: 2026-11-23T19:46:07-03:00
+Arquivo: data/raw/3204104.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3204104&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: ccd410abe749e4d1d7624882c78e08ba60f9e867060f5f81122f80a7152c1e8c
+
+Data e hora: 2026-11-23T19:46:09-03:00
+Arquivo: data/raw/3204203.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3204203&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 04ca706042ef65084956ad4cc142221b94b30cea102a12578ac0e87ccd0e488d
+
+Data e hora: 2026-11-23T19:46:10-03:00
+Arquivo: data/raw/3204252.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3204252&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 431fb0db443a598f0d81f455dcacff35b238b21a89ccdb85918fd0a4394d3cc2
+
+Data e hora: 2026-11-23T19:46:12-03:00
+Arquivo: data/raw/3204302.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3204302&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 6f7033f0a096974c06912bd2522a258c9b4d8e2b4c556c7f2183bde0bb67647e
+
+Data e hora: 2026-11-23T19:46:13-03:00
+Arquivo: data/raw/3204351.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3204351&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: f977740fe7e0757d4889d37af13d8e1f03d7c85cdaca02c9ed17b35cfcca0494
+
+Data e hora: 2026-11-23T19:46:15-03:00
+Arquivo: data/raw/3204401.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3204401&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 92670a7d601c53ae28a54670555b4dd26b72ad348888f7bfb6730a25432dbe17
+
+Data e hora: 2026-11-23T19:46:16-03:00
+Arquivo: data/raw/3204500.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3204500&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 99b16423fde7f6600f5e0a9a3ff23425e2cbcce8b1a08fbd1fe4764d1e6b51e2
+
+Data e hora: 2026-11-23T19:46:18-03:00
+Arquivo: data/raw/3204559.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3204559&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 679d5f11a592d51607ee087d5449711011bb4b12b3f827125b256deeab55d9b8
+
+Data e hora: 2026-11-23T19:46:19-03:00
+Arquivo: data/raw/3204609.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3204609&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 5ca7a66a70d0a2ba605240c85e29ff062ff40c450bc3c732f429bab6aa409940
+
+Data e hora: 2026-11-23T19:46:21-03:00
+Arquivo: data/raw/3204658.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3204658&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: aa2195a26c63967f70f16e72c1095e549d7edd593b9f5c44f10bf194a48eb9a7
+
+Data e hora: 2026-11-23T19:46:22-03:00
+Arquivo: data/raw/3204708.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3204708&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 1689bbd2878a7a8347c447d18ddd61b178abb93697f8942d33a4bfe59f160287
+
+Data e hora: 2026-11-23T19:46:24-03:00
+Arquivo: data/raw/3204807.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3204807&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: ee81bfc7f501b036842e7be8f2ad421375bb0a75be27c6ae6fd8a7af2a53afad
+
+Data e hora: 2026-11-23T19:46:26-03:00
+Arquivo: data/raw/3204906.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3204906&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 8a810a211a37b66007f21c1bc6f1255eac4e17b6d19d20078c113bb405d96e9b
+
+Data e hora: 2026-11-23T19:46:27-03:00
+Arquivo: data/raw/3204955.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3204955&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: cc41ec73f90780ff478f9b6cd4ad87f5d515b43aa35da2e8997b5e5e042f7f35
+
+Data e hora: 2026-11-23T19:46:29-03:00
+Arquivo: data/raw/3205002.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3205002&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 8b935056885836ef73559bf80665ced13c4277cbd808f4fd89b60284b889c8e7
+
+Data e hora: 2026-11-23T19:46:30-03:00
+Arquivo: data/raw/3205010.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3205010&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: e72297c91b0ebe4249dead8114c676556e0e7148ceee945662a39596883d629f
+
+Data e hora: 2026-11-23T19:46:32-03:00
+Arquivo: data/raw/3205036.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3205036&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 22281d29c99b74d4f7a54a6746ab0949015f8571c243ac230621b623855233af
+
+Data e hora: 2026-11-23T19:46:33-03:00
+Arquivo: data/raw/3205069.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3205069&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: e333c9da481618f7198e9fddf5b477d735a7592a4547fa62f8900666f2e2ba29
+
+Data e hora: 2026-11-23T19:46:35-03:00
+Arquivo: data/raw/3205101.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3205101&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: e7f84292237ca8008b80ff7b119cd4541e8b17425d931f917015e6af593b08e5
+
+Data e hora: 2026-11-23T19:46:36-03:00
+Arquivo: data/raw/3205150.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3205150&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 69b96d8bea9d8944b192638e1960a77b42aabffe6365c4640be2cf0d09ae8091
+
+Data e hora: 2026-11-23T19:46:38-03:00
+Arquivo: data/raw/3205176.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3205176&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 24a00e2f2ff642e1c85b808b6cd0ed9f1de1a49ea9d146726f873bc782230100
+
+Data e hora: 2026-11-23T19:46:39-03:00
+Arquivo: data/raw/3205200.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3205200&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: b9ee729052dfd6e4b4a87a887d8ab7291e13ab4d899a9703c646fc357b59105c
+
+Data e hora: 2026-11-23T19:46:41-03:00
+Arquivo: data/raw/3205309.csv
+URL: https://info.dengue.mat.br/api/alertcity?geocode=3205309&disease=dengue&format=csv&ew_start=1&ew_end=53&ey_start=2015&ey_end=2025
+Linhas: 574
+SHA-256: 06678404fd3bd478ef7a46ab98af1fb667a8d4b5e82cf1c2a8706162a6ec4b57
+
