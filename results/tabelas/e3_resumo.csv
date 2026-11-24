@@ -1,0 +1,4 @@
+localidade,residuo_l1,lambda2_modulo,primitiva,menor_k,limite_wielandt,dentro_limite,semanas_validas,diferenca_empirica_l1
+serra,5.07927033766e-14,0.879407571528,True,2,10,True,574,0.00270597320809
+vila_velha,7.95474797144e-14,0.881074326168,True,2,10,True,574,0.00269381153039
+es_agregado,3.84914322638e-13,0.8858413633,True,2,10,True,44772,0.000544664039656
