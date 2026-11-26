@@ -1,0 +1,3 @@
+localidade,origem,destino,tempo_teorico,tempo_empirico,observacoes_completas,observacoes_censuradas,diferenca_empirica_teorica
+vila_velha,1,4,45.3320964748963,55.0742358078603,229,54,9.74213933296397
+vila_velha,4,1,15.263450834877,11.6324786324786,117,0,-3.63097220239839
